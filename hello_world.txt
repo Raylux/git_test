@@ -1,0 +1,2 @@
+Hello World!
+This is the second commit I'm doing on my first attempt of using Git
